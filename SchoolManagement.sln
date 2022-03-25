@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebonoControl", "DEBONOControl\DebonoControl.csproj", "{813B3552-E9FB-4AA0-B626-140E260A126B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebonoDLL", "DEBONODLL\DebonoDLL.csproj", "{08727DCA-217A-4E5D-8F41-80D548ED92AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagement", "SchoolManagement\SchoolManagement.csproj", "{93C90617-B0DC-4A36-B181-779C8E25A2B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813B3552-E9FB-4AA0-B626-140E260A126B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813B3552-E9FB-4AA0-B626-140E260A126B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813B3552-E9FB-4AA0-B626-140E260A126B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813B3552-E9FB-4AA0-B626-140E260A126B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08727DCA-217A-4E5D-8F41-80D548ED92AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08727DCA-217A-4E5D-8F41-80D548ED92AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08727DCA-217A-4E5D-8F41-80D548ED92AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08727DCA-217A-4E5D-8F41-80D548ED92AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C90617-B0DC-4A36-B181-779C8E25A2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C90617-B0DC-4A36-B181-779C8E25A2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C90617-B0DC-4A36-B181-779C8E25A2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C90617-B0DC-4A36-B181-779C8E25A2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
